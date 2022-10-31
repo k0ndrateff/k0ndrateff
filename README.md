@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @k0ndrateff
+- 👀 I’m interested in making creative, beautiful user intefaces and effective backend systems behind them.
+- 🌱 I’m currently learning C++ and React with TypeScript.
+- 💞️ I’m looking to collaborate on frontend libraries and projects.
+- 📫 I am open for job and business offers, you can reach me by email: kondratevegor04@gmail.com or Telegram: @k0ndrateff
